@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "T": {
+      "item": "cobblesafari:tinkagear"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "TI ",
+    " I "
+  ],
+  "result": {
+    "id": "cobblesafari:tinkhammer",
+    "count": 1,
+    "components": {
+      "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#minecraft:mineable/pickaxe",
+            "speed": 8.0,
+            "correct_for_drops": true
+          }
+        ],
+        "default_mining_speed": 1.0,
+        "damage_per_block": 1
+      }
+    }
+  }
+}
