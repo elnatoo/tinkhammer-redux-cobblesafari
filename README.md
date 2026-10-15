@@ -1,6 +1,6 @@
 # 🔨 Tinkhammer Redux
 
-This datapack (and resource pack) changes a few things for the _Tinkhammer_ from the [Cobblesafari mod](https://modrinth.com/mod/cobblesafari).
+This datapack (and resource pack) changes a few things for the _Tinkhammer_ from the [CobbleSafari mod](https://modrinth.com/mod/cobblesafari).
 
 The datapack is available on Modrinth! Download it here: *Pending approval*
 
@@ -10,7 +10,22 @@ The datapack is available on Modrinth! Download it here: *Pending approval*
 - Enhanced textures for Tinkhammer, Tinkagear, and the Tinkagear Block
 
 ### Tinkhammer Additions
-- A slightly tweaked crafting recipe that depends on which version you install. 
+- A _slightly_ tweaked crafting recipe that depends on which version you install.
+
+<details>
+  <summary>Default</summary>
+  
+  ![Recipe for the Tinkhammer](tinkhammer-fix/recipe.PNG)
+
+</details>
+
+<details>
+  <summary>Heavy Core Edition</summary>
+  
+![Recipe for the Tinkhammer using the Heavy Core](tinkhammer-fix-heavy-core/recipe.PNG)
+
+</details>
+
 - Added pickaxe properties to the Tinkhammer (based on diamond-tier) so it no longer behaves like an axe
 - Can be enchanted with the following enchants (exclusivity rules still apply):
   - Mending
@@ -35,4 +50,4 @@ The datapack is available on Modrinth! Download it here: *Pending approval*
 - `Cobblesafari: 0.3.0+` (tested on `0.3.5`, but should behave the same way in previous versions)
 
 ## 📖 Credits
-- [maxigregrze](https://modrinth.com/user/maxigregrze): Cobblesafari developer and creator of the base textures that were enhanced
+- [maxigregrze](https://modrinth.com/user/maxigregrze): CobbleSafari developer and creator of the base textures that were enhanced
