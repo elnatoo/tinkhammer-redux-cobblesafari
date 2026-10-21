@@ -2,7 +2,7 @@
 
 This datapack (and resource pack) changes a few things for the _Tinkhammer_ from the [CobbleSafari mod](https://modrinth.com/mod/cobblesafari).
 
-The datapack is available on Modrinth! Download it here: *Pending approval*
+[This datapack is available on Modrinth!](https://modrinth.com/datapack/tinkhammer-redux-cobblesafari)
 
 ## ✨ Features
 
